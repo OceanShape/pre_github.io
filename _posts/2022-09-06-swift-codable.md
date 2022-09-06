@@ -1,4 +1,8 @@
-# Codable
+---
+layout: post
+title:  "Codable 정리"
+categories: Swift
+---
 
 ## Encodable/Decodable
 
