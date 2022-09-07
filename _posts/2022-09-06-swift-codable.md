@@ -99,9 +99,8 @@ struct Animal: Codable {
     }
 }
 
-// CodingKey로 정한 이상, 원래의 key는 사용할 수 없다
-// JSON에서 height를 key로 사용할 수 없음(사용시 decoding 실패)
-// "height" : 55 사용 불가(decoding이 실패한다)
+// CodingKey로 정한 이상, JSON에서 원래의 key(여기서는 height)를 사용할 수 없다
+// "height" : 55로 작성시 decoding 실패
 let jsonCodingKeyString = """
 {
 "name" : "crepe",
