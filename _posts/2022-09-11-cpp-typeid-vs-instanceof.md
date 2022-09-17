@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "[비교] typeid(C++)/instanceof(Java) 차이점"
-categories: cpp
+title:  "typeid(C++)/instanceof(Java) 차이점"
+categories: C++
 ---
 
 Java의 instanceof 연산자처럼, C++에서도 typeid 연산자를 사용하면 반환된 type_info객체를 통해 타입을 알 수 있다.
