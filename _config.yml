@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Ocean"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "그래픽스에 관심이 많은 iOS개발자입니다."
-  location         : "Korea"
-  email            :
+  bio              : "상호작용에 관심이 많은 개발자입니다"
+  location         : 
+  email            : "oceanshape700@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
