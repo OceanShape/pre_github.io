@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "기본 렌더링 루프"
-categories: OpenGL
+categories: opengl
 ---
 
 ```CPP
